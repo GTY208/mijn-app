@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="count_button" type="id" />
+    <item name="random_button" type="id" />
+    <item name="toast_button" type="id" />
+    <item name="textview_first" type="id" />
+</resources>
